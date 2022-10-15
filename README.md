@@ -1,7 +1,7 @@
 # EXP 04 Inerfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller
 ```
-Name : ezhil mathi r
-Roll no : 212221230026
+Name : virgil jovita.a
+Roll no : 212221240062
 ```
 ## Aim
 To Interface 16X2 type LCD display to LPC2148 ARM 7 and write a code for displaying a string to it
