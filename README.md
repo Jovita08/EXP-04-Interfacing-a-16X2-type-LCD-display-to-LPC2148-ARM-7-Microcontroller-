@@ -1,13 +1,8 @@
-# EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
+# EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller
+### Name: Virgil Jovita A
+### Roll no: 212221240062
+### Date of experiment: 
 
-Name :VIRGIL JOVITA.A
-
-Roll no :212221240062
-
- 
-
-
-## Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller 
 
 ## Aim: 
 To Interface 16X2 type LCD display to LPC2148 ARM 7 and write a code for displaying a string to it
@@ -19,13 +14,9 @@ Proteus ISIS professional suite, Kiel μ vision 5 Development environment
  
  ![image](https://user-images.githubusercontent.com/36288975/195774401-e3bffb44-0d3d-4b7e-b374-7a7a7ef60d48.png)
 
-
- 
  
  ![image](https://user-images.githubusercontent.com/36288975/195773232-ab5dd9b0-99b7-4663-9bdf-6665fa93a052.png)
 Fig.01 16X2 LCD DISPLAY 
-
-
 
 
 Apart from the voltage supply connections the important pins from the programming perspective are the data lines(8-bit Data bus), Register select, Read/Write and Enable pin.
@@ -121,8 +112,6 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 
 ## Kiel - Program  
 ```
-
-
 #include <lpc214x.h>
 #include <stdint.h>
 #include <stdlib.h>
@@ -200,16 +189,7 @@ int main(void)
 
 ## Proteus simulation 
 ![pm](a.png)
-
-
-
-
-
-
 ![p](b.png)
-
-
-
 ##  layout Diagram 
 ![pm](c.png)
 
@@ -217,10 +197,3 @@ int main(void)
 ## Result :
 
 Interfaced an LCD with ARM microcontroller is executed and displayed the strings  
-
- 
-
-
-
-
-
